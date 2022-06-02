@@ -16,9 +16,21 @@ This post is aimed at showcasing some small changes i've made to my portfolio ho
 #### Changes
 
 -General Style change
+
+<br>
+
 -Background image change
+
+<br>
+
 -Animated href's gone
+
+<br>
+
 -Added juice wrld profile picture
+
+<br>
+
 -Added redirects to this blog site.
 
 <br>

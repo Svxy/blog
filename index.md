@@ -2,7 +2,7 @@
 
 <p align=center><img src='https://github.com/Svxy/imgs/blob/main/icon.png?raw=true' alt='Failed to load image from GitHub' style="width: 250px; height: width; margin-top: -10%; margin-bottom: -10%;"></p>
 
-<h1 align=center>This is my simple Blog Page.</h1>
+<h1 align=center>This is my Official Blog Page.</h1>
 
 <h3 align=center>Here you'll see me write about various things such as programming, frontend web development, gaming, outdoors, traveling etc...</h3>
 
