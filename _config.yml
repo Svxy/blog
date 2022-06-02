@@ -1,0 +1,37 @@
+title: "TnyavnTo - Blog"
+author: "TnyavnTo"
+description: "This is my simple blog i built off of a template because im lazy. You'll see me write here about various things such as programming, frontend web development, gaming, outdoors, traveling etc..."
+
+email: "sna.organics@gmail.com"
+twitter_username: "sna_organics"
+github_username: "sna-organics-co"
+#linkedin_username: "linkedinuser"
+#facebook_username: username
+#flickr_username: username
+instagram_username: sna_organics
+#pinterest_username: username
+#youtube_username: username
+#googleplus_username: +username
+
+theme: "minima"
+
+rss: rss
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+    
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
