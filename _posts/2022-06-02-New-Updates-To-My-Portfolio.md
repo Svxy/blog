@@ -2,7 +2,7 @@
 
 <br><br>
 
-Please dont forget to check out <a href='https://svxy.github.io'>my portfolio</a> if you havent yet.
+Please dont forget to check out <a href='https://tnyavnto.com'>my portfolio</a> if you havent yet.
 
 <br><br>
 
