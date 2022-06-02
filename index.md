@@ -1,6 +1,6 @@
 <br>
 
-<p align=center><img src='https://github.com/Svxy/imgs/blob/main/icon.png?raw=true' alt='Image not found' style="width: 250px; height: width;"></p>
+<p align=center><img src='https://github.com/Svxy/imgs/blob/main/icon.png?raw=true' alt='Image not found' style="width: 250px; height: width; margin-top: -10%; margin-bottom: -10%;"></p>
 
 <h1 align=center>This is my simple Blog Page.</h1>
 
