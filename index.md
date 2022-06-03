@@ -9,3 +9,5 @@
 <p align=center>Make sure to check out my <a href='https://tnyavnto.com'>Official Portfolio</a> if you happened to have found this page elsewhere.</p>
 
 <br>
+
+<p align=center><sup>Read our <a href='https://tnyavnto.com/policy/'>Privacy Policy<a></sup></p>
