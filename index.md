@@ -10,4 +10,4 @@
 
 <br>
 
-<p align=center><sup>Read our <a href='https://tnyavnto.com/policy/'>Privacy Policy<a></sup></p>
+<p align=center><sup>Read our <a href='https://tnyavnto.com/policy/'>Privacy Policy</a></sup></p>
