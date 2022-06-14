@@ -2,7 +2,7 @@
 
 <br>
 
-So given the fact i'm 16 going on 17, need to improve on my physical strength, and have no income, I am now an employee at my parents automotive repair shop <a href='https://jmautomotive.net' target='_blank'>JM Automotive</a> in Wiscasset, Maine.
+So given the fact i'm 16 going on 17, need to improve on my physical strength, and have no income, I am now an employee at my parents automotive repair shop in Wiscasset, Maine.
 
 We're a family owned business that does everything from simple diag's and/or alignments to full on engine replacements. My father is a 20+ year master diesel/gas motor technician, meaning your car will always be in good hands.
 
