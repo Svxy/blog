@@ -15,13 +15,12 @@ layout: default
       {%- if author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span></span>
       {%- endif -%}</p>
-    {% include navlinks.html %}
   </header>
 
   <div class="share-links">
     {% include sharelinks.html %}
   </div>
-
+     {% include navlinks.html %}
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
     {% include navlinks.html %}
